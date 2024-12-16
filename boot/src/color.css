@@ -1,0 +1,22 @@
+.header{
+  background-color: gray;
+  color: white;
+}
+.content{
+  margin-top: 60px;
+}
+.img{
+  height: 180px;
+  width: 100%;
+  object-fit: cover;
+}
+body{
+margin: 0;
+padding: 0;
+}
+.logininfo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
